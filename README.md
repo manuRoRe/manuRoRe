@@ -6,3 +6,7 @@ Me llamo Manuel Romero
 <p align="center">
   <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=650&lines=Tecnico+superior+en+desarrollo+de+aplicaciones+multiplataforma;Tecnico+superior+en+desarrollo+de+aplicaciones+web;Constantemente+Aprendiendo"></a></a>
 </p>
+
+## Contacto
+![Static Badge](https://img.shields.io/badge/Mail-red?style=for-the-badge&link=manuelromeroreyes.mrr%40gmail.com)
+
