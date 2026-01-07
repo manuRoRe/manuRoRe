@@ -11,4 +11,8 @@ Me llamo Manuel Romero
 [![Static Badge](https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuelromeroreyes.mrr@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/manuel-romero-reyes-206578381/)
 
+## Github Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+
+
 
