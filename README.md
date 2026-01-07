@@ -8,7 +8,7 @@ Me llamo Manuel Romero
 </p>
 
 ## Contacto
-![Static Badge](https://img.shields.io/badge/Mail-red?style=for-the-badge&link=manuelromeroreyes.mrr%40gmail.com)
+[![Email](https://img.shields.io/badge/Mail-red?style=for-the-badge)](mailto:manuelromeroreyes.mrr@gmail.com)
 ![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmanuel-romero-reyes-206578381%2F)
 
 
