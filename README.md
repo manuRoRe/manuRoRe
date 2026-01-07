@@ -1,4 +1,5 @@
-  Hola, me llamo Manuel Romero
+# Holaa
+Me llamo Manuel Romero
   - Actualmente estoy trabajando en varios proyectos en ReactJS y NodeJs
   - Varios cursos y certificaciones en mi Linkedin https://www.linkedin.com/in/manuel-romero-reyes-206578381/
   - Puedes contactar conmigo a traves de mi correo manuelromeroreyes.mrr@gmail.com
