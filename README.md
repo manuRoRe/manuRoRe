@@ -9,10 +9,10 @@ Me especializo en crear aplicaciones web y móviles escalables, con un enfoque f
 - Mentalidad de Producto: No solo escribo código; desarrollo soluciones enfocadas en resolver problemas reales, como demuestro en mis proyectos personales (Luna web para el seguimiento menstrual).
 
 ### 💻 Stack Técnico Principal:
-Frontend: React (Zustand, TanStack Query), Angular, Laravel.
-Backend: Node.js, Laravel, Spring Boot.
-Herramientas: Docker, Git, Figma.
-Estoy buscando nuevos retos donde pueda seguir creciendo y aportando valor desde el primer día.
+</br>Frontend: React (Zustand, TanStack Query), Angular, Laravel.
+</br>Backend: Node.js, Laravel, Spring Boot.
+</br>Herramientas: Docker, Git, Figma.
+</br>Estoy buscando nuevos retos donde pueda seguir creciendo y aportando valor desde el primer día.
 
 <p align="center">
   <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=650&lines=Tecnico+superior+en+desarrollo+de+aplicaciones+multiplataforma;Tecnico+superior+en+desarrollo+de+aplicaciones+web;Constantemente+Aprendiendo"></a></a>
