@@ -9,19 +9,19 @@ Me especializo en crear aplicaciones web y móviles escalables, con un enfoque f
 - Mentalidad de Producto: No solo escribo código; desarrollo soluciones enfocadas en resolver problemas reales, como demuestro en mis proyectos personales (Luna web para el seguimiento menstrual).
 
 ### 💻 Stack Técnico Principal:
-<p align="center">
-  <strong>Frontend:</strong> 
+
+  <strong>Frontend:</strong> </br>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,angular" valign="middle"></a>
-</p>
 
-<p align="center">
+
+<p>
   <strong>Backend:</strong> 
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,spring,supabase,laravel" valign="middle"></a>
+</br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,spring,supabase,laravel" valign="middle"></a>
 </p>
 
-<p align="center">
+<p >
   <strong>Herramientas:</strong> 
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,figma" valign="middle"></a>
+</br><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,figma" valign="middle"></a>
 </p>
 <p>Estoy buscando nuevos retos donde pueda seguir creciendo y aportando valor desde el primer día.</p>
 
