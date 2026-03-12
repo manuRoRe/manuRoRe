@@ -10,7 +10,7 @@ Me especializo en crear aplicaciones web y móviles escalables, con un enfoque f
 
 ### 💻 Stack Técnico Principal:
 <strong> - Frontend</strong>:[![My Skills](https://skillicons.dev/icons?i=react,angular,laravel)](https://skillicons.dev)
-</br><strong> - Backend</strong>: [![My Skills](https://skillicons.dev/icons?i=node,spring-boot,laravel)](https://skillicons.dev).
+</br><strong> - Backend</strong>: [![My Skills](https://skillicons.dev/icons?i=nodejs,spring,supabase,laravel)](https://skillicons.dev).
 </br><strong> - Herramientas</strong>: [![My Skills](https://skillicons.dev/icons?i=docker,git,figma)](https://skillicons.dev).
 </br>Estoy buscando nuevos retos donde pueda seguir creciendo y aportando valor desde el primer día.
 
