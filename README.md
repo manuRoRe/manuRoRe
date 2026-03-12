@@ -1,8 +1,19 @@
-# Holaa
-Me llamo Manuel Romero
-  - Actualmente estoy trabajando en varios proyectos en ReactJS y NodeJs
-  - En busqueda activa de trabajo
-  - Puedes contactar conmigo a traves de mi correo manuelromeroreyes.mrr@gmail.com
+# Manuel Romero | Full Stack Developer
+## Sobre Mi
+Desarrollador Full Stack con Doble Titulación Técnica (DAW + DAM) y nivel B2 de Inglés.
+Me especializo en crear aplicaciones web y móviles escalables, con un enfoque fuerte en la calidad del código y la experiencia de usuario. Mi perfil híbrido me permite entender tanto el desarrollo frontend moderno (React, Angular) como la lógica robusta del backend (Node.js, Laravel, Spring Boot).
+
+### 🚀 Lo que aporto a los equipos:
+- Versatilidad: Capacidad para saltar entre tecnologías (de PHP a TypeScript) según las necesidades del proyecto.
+- Experiencia Real: He trabajado en entornos innovadores implementando soluciones Blockchain y digitalizanco negocios cerca de mi zona.
+- Mentalidad de Producto: No solo escribo código; desarrollo soluciones enfocadas en resolver problemas reales, como demuestro en mis proyectos personales (Luna web para el seguimiento menstrual).
+
+### 💻 Stack Técnico Principal:
+Frontend: React (Zustand, TanStack Query), Angular, Laravel.
+Backend: Node.js, Laravel, Spring Boot.
+Herramientas: Docker, Git, Figma.
+Estoy buscando nuevos retos donde pueda seguir creciendo y aportando valor desde el primer día.
+
 <p align="center">
   <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=650&lines=Tecnico+superior+en+desarrollo+de+aplicaciones+multiplataforma;Tecnico+superior+en+desarrollo+de+aplicaciones+web;Constantemente+Aprendiendo"></a></a>
 </p>
