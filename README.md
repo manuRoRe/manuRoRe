@@ -25,6 +25,18 @@ Me especializo en crear aplicaciones web y móviles escalables, con un enfoque f
 </p>
 <p>Estoy buscando nuevos retos donde pueda seguir creciendo y aportando valor desde el primer día.</p>
 
+## 📊 Mi Actividad en GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuRoRe&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuRoRe&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuRoRe&theme=tokyonight" />
+</p>
+
+
 <p align="center">
   <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=650&lines=Tecnico+superior+en+desarrollo+de+aplicaciones+multiplataforma;Tecnico+superior+en+desarrollo+de+aplicaciones+web;Constantemente+Aprendiendo"></a></a>
 </p>
