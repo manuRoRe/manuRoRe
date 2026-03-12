@@ -28,12 +28,11 @@ Me especializo en crear aplicaciones web y móviles escalables, con un enfoque f
 ## 📊 Mi Actividad en GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuRoRe&layout=compact&langs_count=7&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuRoRe&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuRoRe&layout=compact&langs_count=7&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuRoRe&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuRoRe&theme=tokyonight&count_private=true" />
 </p>
 
 
