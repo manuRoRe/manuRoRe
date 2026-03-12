@@ -11,8 +11,8 @@ Me especializo en crear aplicaciones web y móviles escalables, con un enfoque f
 ### 💻 Stack Técnico Principal:
 <strong> - Frontend</strong>:[![My Skills](https://skillicons.dev/icons?i=react,angular,laravel)](https://skillicons.dev)
 </br><strong> - Backend</strong>: [![My Skills](https://skillicons.dev/icons?i=nodejs,spring,supabase,laravel)](https://skillicons.dev).
-</br><strong> - Herramientas</strong>: [![My Skills](https://skillicons.dev/icons?i=docker,git,figma)](https://skillicons.dev).
-</br>Estoy buscando nuevos retos donde pueda seguir creciendo y aportando valor desde el primer día.
+</br><strong justify="center"> - Herramientas</strong>: [![My Skills](https://skillicons.dev/icons?i=docker,git,figma)](https://skillicons.dev).
+<p>Estoy buscando nuevos retos donde pueda seguir creciendo y aportando valor desde el primer día.</p>
 
 <p align="center">
   <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=650&lines=Tecnico+superior+en+desarrollo+de+aplicaciones+multiplataforma;Tecnico+superior+en+desarrollo+de+aplicaciones+web;Constantemente+Aprendiendo"></a></a>
