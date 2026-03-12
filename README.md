@@ -9,9 +9,9 @@ Me especializo en crear aplicaciones web y móviles escalables, con un enfoque f
 - Mentalidad de Producto: No solo escribo código; desarrollo soluciones enfocadas en resolver problemas reales, como demuestro en mis proyectos personales (Luna web para el seguimiento menstrual).
 
 ### 💻 Stack Técnico Principal:
-<strong>Frontend</strong>: React (Zustand, TanStack Query), Angular, Laravel.
-</br><strong>Backend</strong>: Node.js, Laravel, Spring Boot.
-</br><strong>Herramientas</strong>: Docker, Git, Figma.
+<strong> - Frontend</strong>: React (Zustand, TanStack Query), Angular, Laravel.[![My Skills](https://skillicons.dev/icons?i=react,angular,laravel)](https://skillicons.dev)
+</br><strong> - Backend</strong>: Node.js, Laravel, Spring Boot.
+</br><strong> - Herramientas</strong>: Docker, Git, Figma.
 </br>Estoy buscando nuevos retos donde pueda seguir creciendo y aportando valor desde el primer día.
 
 <p align="center">
